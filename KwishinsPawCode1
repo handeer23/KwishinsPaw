@@ -1,0 +1,42 @@
+<doctype html>
+<html lang="en-US">
+    <head>
+        <meta chartset="utf-8">
+        <title>Kwishin's Paw</title>
+        <style>
+            body{ 
+                background: linear-gradient(to bottom,#bd9dd2,#ccccff);
+                height: 100vh; /*makes sure to cover entire screen*/
+                margin: 0; /*removes default margins*/
+                display: flex;
+                justify-content: center; /*this centers all text in body*/
+                align-items: center;
+                flex-direction: column;
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                color:#515153;
+                text-align: center;
+                margin-top:50px;/*adds some space to top*/
+            }
+            ul {
+                list-style-position: inside;
+                padding-left:0;
+            }
+        </style>          
+    </head>
+    <body>
+        <h1>Kwishin's Paw</h1>
+        <p>Welcome! This website is a work-in-progress portfolio site. 
+            Here you will find a variety of things such as samples, past projects, current works-in-progress, CV, etc. 
+            Feel free to look around. 
+        </p>
+        <h2>Portfolio</h2>
+            <ul>
+                <li><a href="CV_2025_Anderson_Hannah.pdf">CV</a></li>
+                <li>Not ready for preview</li>
+                <li>Not ready for preview</li>
+            </ul>
+    </body>   
+        
+        <meta name="viewport">
+</html>
+</doctype>
