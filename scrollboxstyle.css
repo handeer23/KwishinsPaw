@@ -1,12 +1,6 @@
 body {
     position:relative;
 }
-.scroll-container {
-    display: flex;
-    gap: 20px;
-    justify-content: center;
-    margin-top:30px;
-    }
 .scroll-box {
     width: 200px;
     height: 200px;
@@ -14,7 +8,8 @@ body {
     border: 1px solid #515153;
     padding: 10px;
     background-color: linear-gradient(to bottom,#bd9dd2,#ccccff);
-    }
+    position: absolute;
+}
 .box1 {
     top:50px;
     left:100px
