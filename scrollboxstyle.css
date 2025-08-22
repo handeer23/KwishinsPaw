@@ -12,20 +12,20 @@ body {
         overflow-y: scroll;
         border: 1px solid #515153;
         padding: 10px;
-        background-color: linear-gradient(to bottom,#bd9dd2,#ccccff);
+        background: linear-gradient(to bottom,#bd9dd2,#ccccff);
     }
     .box1 {
         top:50px;
         left:100px;
-        background-color: linear-gradient(to bottom,#bd9dd2,#ccccff); 
+        background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
     }
     .box2 {
-        top:150px;
+        top:50px;
         left: 250px;
-        background-color: linear-gradient(to bottom,#bd9dd2,#ccccff); 
+        background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
     }
     .box3 {
-        top:100px;
+        top:50px;
         left:600px;
-        background-color: linear-gradient(to bottom,#bd9dd2,#ccccff); 
+        background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
     }   
