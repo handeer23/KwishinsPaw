@@ -12,19 +12,23 @@ body {
         overflow-y: scroll;
         border: 1px solid #515153;
         padding: 10px;
+        gap: 20px;
         background: linear-gradient(to bottom,#bd9dd2,#ccccff);
     }
     .box1 {
+        position: absolute;
         top:50px;
         left:100px;
         background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
     }
     .box2 {
+        position: absolute;
         top:50px;
         left: 250px;
         background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
     }
     .box3 {
+        position: absolute;
         top:50px;
         left:600px;
         background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
