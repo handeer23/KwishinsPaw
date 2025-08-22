@@ -1,6 +1,10 @@
 body {
     position:relative;
 }
+.scroll-container{
+    display:flex;
+    gap: 20px;
+}
 .scroll-box {
     width: 200px;
     height: 200px;
