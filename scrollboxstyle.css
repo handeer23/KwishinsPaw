@@ -1,15 +1,13 @@
-<style>
-            .scroll-container {
-                display: flex;
-                gap: 20px;
-                justify-content: center;
-            }
-            .scroll-box {
-                width: 200px;
-                height: 200px;
-                overflow-y: scroll;
-                border: 1px solid #515153'
-                padding: 10px;
-                background-color: linear-gradient(to bottom,#bd9dd2,#ccccff);
-            }
-</style>
+.scroll-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    }
+.scroll-box {
+    width: 200px;
+    height: 200px;
+    overflow-y: scroll;
+    border: 1px solid #515153;
+    padding: 10px;
+    background-color: linear-gradient(to bottom,#bd9dd2,#ccccff);
+    }
