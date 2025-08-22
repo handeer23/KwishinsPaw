@@ -1,0 +1,18 @@
+<style>
+            body{ 
+                background: linear-gradient(to bottom,#bd9dd2,#ccccff);
+                height: 100vh; /*makes sure to cover entire screen*/
+                margin: 0; /*removes default margins*/
+                display: flex;
+                justify-content: center; /*this centers all text in body*/
+                align-items: center;
+                flex-direction: column;
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                color:#515153;
+                text-align: center;
+                margin-top:50px;/*adds some space to top*/
+            }
+            ul {
+                list-style-position: inside;
+                padding-left:0;
+            }
