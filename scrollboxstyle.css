@@ -2,7 +2,7 @@ body {
     margin:0;
     padding:20px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     height:100vh;
 }
@@ -13,7 +13,7 @@ body {
     .scroll-container{
         display: flex;
         gap: 20px;
-        justify-content: center;
+        justify-content: space-between;
         align-items:stretch;
     }
         .scroll-box {
