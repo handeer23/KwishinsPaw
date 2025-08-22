@@ -28,11 +28,11 @@ body {
     }
     .box2 {
         top:50px;
-        left:350px;
+        left:300px;
         background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
     }
     .box3 {
         top:50px;
-        left:600px;
+        right:600px;
         background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
     }   
