@@ -12,13 +12,18 @@ body {
 }
 .box1 {
     top:50px;
-    left:100px
+    left:100px;
+    background-color: linear-gradient(to bottom,#bd9dd2,#ccccff); 
 }
 .box2 {
     top:150px
-    left: 350px
+    left: 350px;
+    background-color: linear-gradient(to bottom,#bd9dd2,#ccccff); 
+
 }
 .box3 {
     top:100px;
-    left:600px
+    left:600px;
+    background-color: linear-gradient(to bottom,#bd9dd2,#ccccff); 
+
 }
