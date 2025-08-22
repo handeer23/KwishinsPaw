@@ -1,7 +1,11 @@
+body {
+    position:relative;
+}
 .scroll-container {
     display: flex;
     gap: 20px;
     justify-content: center;
+    margin-top:30px;
     }
 .scroll-box {
     width: 200px;
@@ -11,3 +15,15 @@
     padding: 10px;
     background-color: linear-gradient(to bottom,#bd9dd2,#ccccff);
     }
+.box1 {
+    top:50px;
+    left:100px
+}
+.box2 {
+    top:150px
+    left: 350px
+}
+.box3 {
+    top:100px;
+    left:600px
+}
