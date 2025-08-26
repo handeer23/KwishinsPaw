@@ -13,6 +13,7 @@ body {
     .scroll-container{
         display: flex;
         gap: 20px;
+        flex-grow: 1;
     
     }
         .scrollbox {
