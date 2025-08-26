@@ -3,7 +3,7 @@ body {
     padding:20px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flew-start;
     height:100vh;
 }
     h3 {
@@ -11,10 +11,9 @@ body {
         margin-right: 20px;
     }
     .scroll-container{
-        display: grid;
+        display: flex;
         gap: 20px;
-        justify-content: space-between;
-        align-items: stretch;
+    
     }
         .scrollbox {
             width: 200px;
@@ -23,6 +22,7 @@ body {
             border: 1px solid #515153;
             padding: 10px;
             background: linear-gradient(to bottom,#bd9dd2,#ccccff);
+            border-radius: 8px;
         }
             .box1 {
                 background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
