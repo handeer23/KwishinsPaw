@@ -16,7 +16,7 @@ body {
         justify-content: space-between;
         align-items:stretch;
     }
-        .scroll-box {
+        .scroll-viewer {
             width: 200px;
             height: 200px;
             overflow-y: scroll;
