@@ -11,15 +11,15 @@ body {
         margin-right: 20px;
     }
     .scroll-container{
-        display: flex;
+        display: grid;
         gap: 20px;
         justify-content: space-between;
-        align-items:stretch;
+        align-items: stretch;
     }
-        .scroll-viewer {
+        .scrollbox {
             width: 200px;
             height: 200px;
-            overflow-y: scroll;
+            overflow: scroll;
             border: 1px solid #515153;
             padding: 10px;
             background: linear-gradient(to bottom,#bd9dd2,#ccccff);
