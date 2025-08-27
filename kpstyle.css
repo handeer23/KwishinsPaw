@@ -15,3 +15,13 @@ ul {
     list-style-position: inside;
     padding-left:0;
     }
+.navbar{
+    position: relative;
+}
+.hamburger{
+    font-size: 24px;
+    background: none;
+    border: none;
+    color:#515153;
+    cursor: pointer;
+}
