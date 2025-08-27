@@ -26,11 +26,14 @@ body {
             border-radius: 8px;
         }
             .box1 {
+                position: left;
                 background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
         }
             .box2 {
+                position: center;
                 background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
         }
             .box3 {
+                position: right;
                 background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
         }   
