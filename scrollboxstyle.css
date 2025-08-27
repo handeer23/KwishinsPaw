@@ -16,8 +16,8 @@ body {
         gap: 20px;
     }
         .scrollbox {
-            width: 200px;
-            height: 200px;
+            width: 300px;
+            height: 800px;
             overflow: scroll;
             border: 1px solid #515153;
             padding: 10px;
