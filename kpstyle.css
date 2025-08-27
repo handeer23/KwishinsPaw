@@ -15,10 +15,10 @@ ul {
     list-style-position: inside;
     padding-left:0;
     }
-.navbar{
+.navbar {
     position: relative;
 }
-.hamburger{
+.hamburger {
     font-size: 24px;
     background: none;
     border: none;
