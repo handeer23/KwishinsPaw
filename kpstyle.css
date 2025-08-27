@@ -1,5 +1,7 @@
 body{ 
     background: linear-gradient(to bottom,#bd9dd2,#ccccff);
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100vh; /*makes sure to cover entire screen*/
     margin: 0; /*removes default margins*/
     display: flex;
