@@ -17,6 +17,8 @@ ul {
     }
 .navbar {
     position: relative;
+    padding: 10px 20px;
+    color:#8b8b8b
 }
 .hamburger {
     font-size: 24px;
@@ -24,4 +26,30 @@ ul {
     border: none;
     color:#515153;
     cursor: pointer;
+}
+.nav-menu {
+    display: none;
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+    background: #8b8b8b;
+    border-radius: 6px;
+}
+navi-menu li {
+    border-bottom: 1px solid #515153;
+}
+.navi-menu li:last-child {
+    border-bottom: none;
+}
+navi-menu a {
+    display: block;
+    padding: 10px;
+    color:#515153;
+    text-decoration: none;
+}
+.navi-menu a:hover {
+    background:#8b8b8b;
+}
+.navi-menu.active {
+    display: block;
 }
