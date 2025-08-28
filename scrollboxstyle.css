@@ -24,14 +24,14 @@ body {
             border-radius: 8px;
         }
             .box1 {
-                width: 300px;
+                width: 350px;
                 background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
         }
             .box2 {
-                width: 200px;
+                width: 100px;
                 background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
         }
             .box3 {
-                width: 300px;
+                width: 350px;
                 background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
         }   
