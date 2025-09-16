@@ -23,6 +23,13 @@ body {
             background: linear-gradient(to bottom,#bd9dd2,#ccccff);
             border-radius: 8px;
         }
+        p{
+            margin: 10px 0;
+            cursor: pointer;
+        }
+        p.highlight {
+            background-color:#515153;
+        }
             .box1 {
                 width: 350px;
                 background: linear-gradient(to bottom,#bd9dd2,#ccccff); 
